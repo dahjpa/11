@@ -1,7 +1,6 @@
-# 11
 <html>
     <head>
-        <title>сайт</title>
+       
         <link rel="stylesheet" href="style.css"/>
     </head>
     <body>
